@@ -18,5 +18,18 @@
       ],
       "total_questions": 1
     }
+  ],
+  "supreme court india": [
+    {
+      "timestamp": "2026-02-22T01:24:27.296191",
+      "score": 55,
+      "strong_topics": [
+        "Constitution & Establishment"
+      ],
+      "weak_topics": [
+        "Jurisdiction & Powers"
+      ],
+      "total_questions": 2
+    }
   ]
 }
